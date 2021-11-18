@@ -15,5 +15,14 @@ public class TestGit1 {
 		public static void printMe1() {
 			
 			System.out.println("test git1");
-	}}
+			System.out.println("test git2");
+	}
+		
+
+public static void printMe2() {
+			
+			System.out.println("test git1");
+			System.out.println("test git2");
+}
+}
 
